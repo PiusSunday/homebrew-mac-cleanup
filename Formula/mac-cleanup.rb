@@ -2,7 +2,7 @@ class MacCleanup < Formula
   desc "Modular macOS developer storage cleanup CLI"
   homepage "https://github.com/PiusSunday/mac-cleanup"
   url "https://github.com/PiusSunday/mac-cleanup/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "9998fe24538edb31da24175e889a11b57e7e62f9effa98ffa24cd707675279e7"
+  sha256 "b6471be362d729e4ba6fc048d53e951b48155b5a54e3ea8aa80b91602b64fffb"
   license "MIT"
 
   def install
