@@ -3,7 +3,7 @@ class MacCleanup < Formula
   homepage "https://github.com/PiusSunday/mac-cleanup"
   # url and sha256 are rewritten by the release workflow on every v*.*.* tag.
   url "https://github.com/PiusSunday/mac-cleanup/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "90db92d9b9cd5a03756dfe8d7bd860386ddcc7a236f7246829e5b7a39715ff88"
+  sha256 "4080e9c139c7c374995b44172abce4bb5dca5457887ea899242ad268409f19d9"
   license "MIT"
   head "https://github.com/PiusSunday/mac-cleanup.git", branch: "main"
 
